@@ -1,6 +1,6 @@
-# Uniswap API
+# SwapMatic API
 
-The Uniswap API is a set of **authenticated** endpoints used by market aggregators (e.g. coinmarketcap.com) to surface 
+SwapMatic API is a fork Uniswap API. It is a set of **authenticated** endpoints used by market aggregators (e.g. coinmarketcap.com) to surface 
 Uniswap liquidity and volume information. All information is fetched from the underlying subgraphs.
 
 The API is designed around the CoinMarketCap
