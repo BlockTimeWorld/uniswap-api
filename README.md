@@ -13,19 +13,19 @@ V1 Subgraph: https://github.com/graphprotocol/uniswap-subgraph
 
 ## Getting an API Key
 
-Please fill out [this form](https://forms.gle/4xucinVsTTPu71bT6) if you would like to get an API key.
+Contact us [here](https://discord.gg/ZFr77Ra) if you would like to get an API key.
 
 ## Using an API Key
 
 You can use an API key by setting it in the `x-api-key` header, like so:
 
 ```sh
-curl -v --compressed https://api.uniswap.info/v1/tickers -H 'x-api-key: abcd1234'
+curl -v --compressed https://api.swapmatic.io/v1/tickers -H 'x-api-key: abcd1234'
 ```
 
 ## V1 Documentation
 
-The documentation of the `/v1/` endpoints is [here](./v1.md).
+The original Uniswap documentation of the `/v1/` endpoints is [here](./v1.md).
 
 ## Deploying the API
 
